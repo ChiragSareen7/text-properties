@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+  font-family: poppins;
+}
+#html{
+  background-color: aqua;
+  font-variant: small-caps;
+  font-style: italic;
+}
+#css{
+  background-color: pink;
+  font-variant: normal;
+  }
+#js{
+  background-color: yellow;
+  font-variant: small-caps;
+  font-style: unset;
+}  
+  p{
+    font-size: 15px;
+  }
